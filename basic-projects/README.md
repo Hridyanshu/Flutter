@@ -7,3 +7,4 @@
 > main5.dart: Creating a container, providing it some height, width, text, background colour and rotating it about z-axis.<br>
 > main6.dart: Displaying some details in the form of rows and columns using row and column widget.<br>
 > main7.dart: Creating a simple list using List Widget.<br>
+> main8.dart: Creating a simple list array of 50 items.<br>
